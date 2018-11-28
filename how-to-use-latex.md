@@ -1,3 +1,10 @@
 # How To Use LaTex
 
-coming soon...
+
+
+## Basic Syntax
+
+- `%`作为LaTex中的注释
+
+
+
