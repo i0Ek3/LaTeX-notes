@@ -1,19 +1,19 @@
-# LaTex-notes
+# LaTeX-notes
 
-> Study how to use LaTex and some LaTex templates.
+> Study how to use LaTeX.
 
-Of course, you can visit [here]() to know my notes for LaTex.
+Of course, you can visit [here](https://github.com/i0Ek3/LaTeX-notes/blob/master/how-to-use-latex.md) to know how to use LaTeX.
 
-In addition, you can install Tex Live for your system or try to use online LaTex editor -- [sharelatex](https://www.sharelatex.com/) first.
+In addition, you can install TeX Live for your system or try to use online LaTeX editor -- [sharelatex](https://www.sharelatex.com/) first.
 
 Have fun!
 
 
 ## Resources
 
-This part are some LaTex resources which I collect for study quickly.
+This part are some LaTeX resources which I collect for study quickly.
 
-And I found an ebook to study LaTex, you can download in [here](https://github.com/i0Ek3/BLANK/blob/master/tech-books/LaTeX%E5%85%A5%E9%97%A8.pdf).
+And I found an ebook to study LaTeX, you can download in [here](https://github.com/i0Ek3/BLANK/blob/master/tech-books/LaTeX%E5%85%A5%E9%97%A8.pdf).
 
 - Tutorial
     - [Begin-Latex-in-minutes](https://github.com/luongvo209/Begin-Latex-in-minutes)
