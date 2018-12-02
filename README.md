@@ -26,11 +26,13 @@ And I found an ebook to study LaTeX, you can download in [here](https://github.c
     - [vimtex](https://github.com/lervag/vimtex)
 
 - Templates
-    - [LaTex-Template-CN](https://github.com/DeathKing/LaTeX-Template-Cn)
-    - [LaTex-Template-Collection](https://github.com/cmichi/latex-template-collection)
+    - [LaTeX-Template-CN](https://github.com/DeathKing/LaTeX-Template-Cn)
+    - [LaTeX-Template-Collection](https://github.com/cmichi/latex-template-collection)
     - [thuthesis](https://github.com/xueruini/thuthesis)
     - [ucasthesis](https://github.com/mohuangrui/ucasthesis)
 
-
+- LaTeX Editor
+    - [latex-equation-editor](https://zh.numberempire.com/latexequationeditor.php)
+    - []()
 
 

@@ -1,6 +1,6 @@
-# 如何使用LaTex
+# 如何使用LaTeX
 
-> 如果你还不知道LaTex，请自行了解。
+> 如果你还不知道LaTeX，请自行了解。
 
 **不断完善中....**
 
@@ -30,7 +30,7 @@
 
 ## 基本语法
 
-这里的基本语法几乎都是以`\begin{}`开始，以`\end{}`结束。示例中的代码可以直接拷贝到LaTex编辑器中运行查看效果。
+这里的基本语法几乎都是以`\begin{}`开始，以`\end{}`结束。示例中的代码可以直接拷贝到LaTeX编辑器中运行查看效果。
 
 ### 文档开始
 
@@ -38,7 +38,7 @@
 
     \begin{document}
 
-    Hello LaTex!
+    Hello LaTeX!
 
     \end{document}
 
@@ -70,15 +70,15 @@
     One Section
 
     \paragraph{}
-    This is my first time to use LaTex, I like it so much! This is my first time to use LaTex, I like it so much!
-    This is my first time to use LaTex, I like it so much! This is my first time to use LaTex, I like it so much!
-    This is my first time to use LaTex, I like it so much! This is my first time to use LaTex, I like it so much!
+    This is my first time to use LaTeX, I like it so much! This is my first time to use LaTeX, I like it so much!
+    This is my first time to use LaTeX, I like it so much! This is my first time to use LaTeX, I like it so much!
+    This is my first time to use LaTeX, I like it so much! This is my first time to use LaTeX, I like it so much!
 
     \subsection{}
     Subsection One
 
     \subparagraph{}
-    This is my first time to use LaTex, I like it so much!
+    This is my first time to use LaTeX, I like it so much!
 
 
 ### 目录
@@ -100,7 +100,7 @@
 
 用`\footnote` + `\label` + `\ref`来表示脚注。
 
-    This is my first time to use LaTex\footnote{\label{myfootnote}Hello LaTex}.
+    This is my first time to use LaTeX\footnote{\label{myfootnote}Hello LaTeX}.
     I am referring to myself \ref{myfootnote}.
 
 ### 换行
@@ -148,7 +148,7 @@
 
     int main()
     {
-        std::cout << "Hello LaTex!" << std::endl;
+        std::cout << "Hello LaTeX!" << std::endl;
         return 0;
     }
 
@@ -159,11 +159,11 @@
 用`\input{second_file}`来分割较长的文件内容。
 
     % original
-    This is my first time to use LaTex. 
-    This is my second time to use LaTex.
+    This is my first time to use LaTeX. 
+    This is my second time to use LaTeX.
 
     % after split
-    This is my first time to use LaTex. 
+    This is my first time to use LaTeX. 
     \input{second_file}
 
 
